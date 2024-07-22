@@ -1,0 +1,3 @@
+starship.toml -> dreadedbird/dotfiles
+nvim -> dreadedbird/minimalnvim
+alacritty -> dreadedbird/dotfiles (adjust font size to 11.7)
